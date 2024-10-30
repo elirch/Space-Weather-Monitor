@@ -1,4 +1,5 @@
 Space Weather Monitor
+
 The Space Weather Monitor project is designed to provide real-time updates on key space weather events and parameters. This application consolidates data related to solar flares, geomagnetic storms, interplanetary shocks, magnetopause crossings, and radiation belt enhancements. The goal is to offer a clear and organized interface for monitoring solar activity and its potential impact on space and Earth-based operations.
 
 Features
