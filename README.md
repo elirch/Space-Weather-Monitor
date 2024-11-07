@@ -11,3 +11,6 @@ Radiation Belt: Shows the latest enhancements in the radiation belts, including 
 Picture of the Day: Displays a button to showcase a picture related to space weather or solar phenomena.
 Overview
 The Space Weather Monitor aggregates space weather events in a visually structured dashboard, making it easy for users to access and understand critical space weather information. The data focuses on events that can impact satellite operations, communication systems, and other space-based activities.
+
+
+![Space Weather Monitor Screenshot](https://github.com/elirch/Space-Weather-Monitor/blob/master/monitor.png)
